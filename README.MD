@@ -1,7 +1,13 @@
-**Personal simple Blueprint for 2D SFML Games**
-
-Im using MinGW64 7.3.0 (Version is important)   
-
-place SFML in the libs folder. Tgui was deleted but can be found in v0.1
-
-##
+ ----------------------------------------------------------------------------
+ "THE BEER-WARE LICENSE" (Revision 42):
+ Romain ROUBAIX and Lucas DUMARTIN wrote this file. As long as you retain this notice you |
+ can do whatever you want with this stuff. If we meet some day, and you think
+ this stuff is worth it, you can buy us a beer in return.
+ ----------------------------------------------------------------------------
+               .-.                                              .-.
+              (. .)__.')                                  (`.__(. .)
+              / V      )       ROUBAIX ROMAIN             (      V \
+        ()    \  (   \/        DUMARTIN LUCAS              \/   )  /    ()
+      <)-`\()  `._`._ \                                    / _.'_.'  ()/'-(>
+        <)_>=====<<==`'====================================`'==>>=====<_(>
+       <>-'`(>                                            +         <)'`-<>
